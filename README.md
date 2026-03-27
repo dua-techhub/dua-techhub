@@ -1,10 +1,14 @@
-# 💫 Hi, I’m Dua Zameer
+# 💫 Hi, I'm Dua Zameer
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFDD&width=600&lines=Full+Stack+Developer;AI+Automation+Enthusiast;Flutter+Mobile+App+Developer"/>
+  <img src="https://avatars.githubusercontent.com/dua-techhub" width="150" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF69B4&width=600&lines=💻+Software+Engineering+Student;🌱+Learning+MERN+Stack+&+Building+Projects;🛠️+Flutter+Mobile+Apps;🚀+AI+Automation+Enthusiast"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -40,9 +44,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dua-techhub&theme=radical&show_icons=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dua-techhub&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dua-techhub&theme=radical&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dua-techhub&theme=dracula&show_icons=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dua-techhub&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dua-techhub&theme=dracula&layout=compact"/>
 </p>
 
 ---
@@ -59,7 +63,7 @@
 
 ---
 
-## 🔥 Visitors
+## ✨ Fun Fact
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dua-techhub&icon=0&color=0"/>
+  <img src="https://media.giphy.com/media/3o7TKy4zxwnc2j7hfy/giphy.gif" width="200"/>
 </p>
