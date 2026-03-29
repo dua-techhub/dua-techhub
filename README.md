@@ -1,13 +1,12 @@
 <!-- ============================================================ -->
 <!--           DUA ZAMEER — TOP 0.1% GITHUB PROFILE              -->
 <!-- ============================================================ -->
+
 <div align="center">
-  <!-- HERO BANNER — works on GitHub -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Dua%20Zameer&fontSize=48&fontColor=FF4D9D&stroke=6C63FF&strokeWidth=2&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻&descSize=20&color=gradient&customColorList=FF4D9D,9B59B6,5DADE2" 
-    alt="Dua Zameer Hero Banner" 
-    width="100%"
-  />
+
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=Dua%20Zameer&fontSize=72&fontColor=ffffff&stroke=6C63FF&strokeWidth=2&desc=Future%20AI%20Engineer%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20Building%20in%20Public&descSize=18&descAlignY=75&animation=twinkling&fontAlignY=45" width="100%"/>
+
 </div>
 
 <!-- ANIMATED SEPARATOR -->
