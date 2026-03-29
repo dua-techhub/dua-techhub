@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=Dua%20Zameer&fontSize=72&fontColor=ffffff&stroke=6C63FF&strokeWidth=2&desc=Future%20AI%20Engineer%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20Building%20in%20Public&descSize=18&descAlignY=75&animation=twinkling&fontAlignY=45" width="100%"/>
+<!-- ENHANCED HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Dua%20Zameer&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20in%20Public%20🔥&descAlignY=70&descSize=22&color=gradient&customColorList=0,2,6,12,20,30,45&stroke=8A2BE2&strokeWidth=3" width="100%"/>
 
 </div>
 
