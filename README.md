@@ -2,19 +2,32 @@
 <!--           DUA ZAMEER — TOP 0.1% GITHUB PROFILE              -->
 <!-- ============================================================ -->
 <div align="center">
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=Dua%20Zameer&fontSize=72&fontColor=ffffff&stroke=000000&strokeWidth=5&desc=Future%20AI%20Engineer%20🚀%20|%20Full%20Stack%20MERN%20Developer%20💻%20|%20Building%20In%20Public%20🔥&descAlign=60&descSize=28&color=gradient&customColorList=FF4D9D,9B59B6,5DADE2,48C9B0&animation=twinkling" width="100%"/>
+  <!-- PRETTY HERO BANNER — Non-white text, gradient, glow -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=340
+    &text=Dua%20Zameer
+    &fontSize=72
+    &fontColor=FF4D9D
+    &stroke=6C63FF
+    &strokeWidth=5
+    &shadow=1
+    &desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20In%20Public%20🔥
+    &descSize=26
+    &descAlign=60
+    &color=gradient
+    &customColorList=FF4D9D,9B59B6,5DADE2,48C9B0
+    &animation=twinkling" 
+    width="100%" 
+  />
 </div>
 
-<!-- <p align="center">
-  <!-- Typing Animated Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" />
-</p> -->
-
 <p align="center">
-  <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&vCenter=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" />
-</p>>
+  <!-- Animated typing effect under banner -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&vCenter=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" 
+  />
+</p>
+
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
