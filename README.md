@@ -10,15 +10,6 @@
   />
 </div>
 
-<p align="center">
-  <!-- Typing effect -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4D9D&center=true&width=600&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" 
-    alt="Typing Effect" 
-  />
-</p>
-
-
 <!-- ANIMATED SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
