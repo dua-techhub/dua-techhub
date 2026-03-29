@@ -2,29 +2,19 @@
 <!--           DUA ZAMEER — TOP 0.1% GITHUB PROFILE              -->
 <!-- ============================================================ -->
 <div align="center">
-  <!-- PRETTY HERO BANNER — Non-white text, gradient, glow -->
+  <!-- HERO BANNER — works on GitHub -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=340
-    &text=Dua%20Zameer
-    &fontSize=72
-    &fontColor=FF4D9D
-    &stroke=6C63FF
-    &strokeWidth=5
-    &shadow=1
-    &desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20In%20Public%20🔥
-    &descSize=26
-    &descAlign=60
-    &color=gradient
-    &customColorList=FF4D9D,9B59B6,5DADE2,48C9B0
-    &animation=twinkling" 
-    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Dua%20Zameer&fontSize=48&fontColor=FF4D9D&stroke=6C63FF&strokeWidth=2&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻&descSize=20&color=gradient&customColorList=FF4D9D,9B59B6,5DADE2" 
+    alt="Dua Zameer Hero Banner" 
+    width="100%"
   />
 </div>
 
 <p align="center">
-  <!-- Animated typing effect under banner -->
+  <!-- Typing effect -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&vCenter=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4D9D&center=true&width=600&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" 
+    alt="Typing Effect" 
   />
 </p>
 
