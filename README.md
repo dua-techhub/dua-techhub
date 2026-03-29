@@ -4,10 +4,15 @@
 
 <div align="center">
 
-<!-- ENHANCED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Dua%20Zameer&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20in%20Public%20🔥&descAlignY=70&descSize=22&color=gradient&customColorList=0,2,6,12,20,30,45&stroke=8A2BE2&strokeWidth=3" width="100%"/>
+<!-- UNIVERSAL HERO BANNER (LOOKS GOOD ON LIGHT & DARK GITHUB) -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=340&text=Dua%20Zameer&fontSize=80&fontColor=ffffff&stroke=FF00FF&strokeWidth=4&fontAlignY=40&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20in%20Public%20🔥&descSize=22&descAlignY=70&color=gradient&customColorList=9,18,27,36,45,60,75&animation=twinkling" width="100%"/>
 
 </div>
+
+<p align="center">
+  <!-- Animated typing effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&vCenter=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" />
+</p>
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
