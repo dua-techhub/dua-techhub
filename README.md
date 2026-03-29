@@ -2,9 +2,14 @@
 <!--           DUA ZAMEER — TOP 0.1% GITHUB PROFILE              -->
 <!-- ============================================================ -->
 <div align="center">
-  <!-- FULLY UPDATED HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=shiny&height=350&text=Dua%20Zameer&fontSize=72&fontColor=f0f0f0&stroke=000000&strokeWidth=6&shadow=1&desc=Future%20AI%20Engineer%20🚀%0AFull%20Stack%20MERN%20Developer%20💻%0ABuilding%20In%20Public%20🔥%0AConsistency%20%3D%20Success%20💯&descSize=28&descAlign=60&color=gradient&customColorList=FF4D9D,9B59B6,5DADE2,48C9B0&animation=glitch" width="100%"/>
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&text=Dua%20Zameer&fontSize=72&fontColor=ffffff&stroke=000000&strokeWidth=5&desc=Future%20AI%20Engineer%20🚀%20|%20Full%20Stack%20MERN%20Developer%20💻%20|%20Building%20In%20Public%20🔥&descAlign=60&descSize=28&color=gradient&customColorList=FF4D9D,9B59B6,5DADE2,48C9B0&animation=twinkling" width="100%"/>
 </div>
+
+<!-- <p align="center">
+  <!-- Typing Animated Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" />
+</p> -->
 
 <p align="center">
   <!-- Animated typing effect -->
