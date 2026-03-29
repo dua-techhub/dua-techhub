@@ -3,16 +3,14 @@
 <!-- ============================================================ -->
 
 <div align="center">
-
-<!-- UNIVERSAL HERO BANNER (LOOKS GOOD ON LIGHT & DARK GITHUB) -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=340&text=Dua%20Zameer&fontSize=80&fontColor=ffffff&stroke=FF00FF&strokeWidth=4&fontAlignY=40&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20in%20Public%20🔥&descSize=22&descAlignY=70&color=gradient&customColorList=9,18,27,36,45,60,75&animation=twinkling" width="100%"/>
-
+  <!-- UNIVERSAL HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=340&text=Dua%20Zameer&fontSize=80&fontColor=f0f0f0&stroke=000000&strokeWidth=6&shadow=1&fontAlignY=40&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20in%20Public%20🔥&descSize=22&descAlignY=70&color=gradient&customColorList=15,30,45,60,75,90&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
   <!-- Animated typing effect -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF4D9D&center=true&vCenter=true&width=650&lines=Future+AI+Engineer;Full+Stack+MERN+Developer;Building+In+Public;Consistency+%3D+Success+🔥" />
-</p>
+</p>>
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
