@@ -1,11 +1,10 @@
 <!-- ============================================================ -->
 <!--           DUA ZAMEER — TOP 0.1% GITHUB PROFILE              -->
 <!-- ============================================================ -->
-
 <div align="center">
-  <!-- PRETTY HERO BANNER WITH DESC + STROKE + GLOW -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=Dua%20Zameer&fontSize=72&fontColor=f0f0f0&stroke=000000&strokeWidth=6&shadow=1&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20In%20Public%20🔥&descSize=28&descAlign=60&color=gradient&customColorList=15,30,45,60,75,90&animation=twinkling" width="100%"/>
-</div>>
+  <!-- FULLY UPDATED HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=shiny&height=350&text=Dua%20Zameer&fontSize=72&fontColor=f0f0f0&stroke=000000&strokeWidth=6&shadow=1&desc=Future%20AI%20Engineer%20🚀%0AFull%20Stack%20MERN%20Developer%20💻%0ABuilding%20In%20Public%20🔥%0AConsistency%20%3D%20Success%20💯&descSize=28&descAlign=60&color=gradient&customColorList=FF4D9D,9B59B6,5DADE2,48C9B0&animation=glitch" width="100%"/>
+</div>
 
 <p align="center">
   <!-- Animated typing effect -->
