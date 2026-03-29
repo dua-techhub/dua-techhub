@@ -3,9 +3,9 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <!-- UNIVERSAL HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=340&text=Dua%20Zameer&fontSize=80&fontColor=f0f0f0&stroke=000000&strokeWidth=6&shadow=1&fontAlignY=40&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20in%20Public%20🔥&descSize=22&descAlignY=70&color=gradient&customColorList=15,30,45,60,75,90&animation=twinkling" width="100%"/>
-</div>
+  <!-- PRETTY HERO BANNER WITH DESC + STROKE + GLOW -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=Dua%20Zameer&fontSize=72&fontColor=f0f0f0&stroke=000000&strokeWidth=6&shadow=1&desc=Future%20AI%20Engineer%20🚀%20|%20MERN%20Stack%20Developer%20💻%20|%20Building%20In%20Public%20🔥&descSize=28&descAlign=60&color=gradient&customColorList=15,30,45,60,75,90&animation=twinkling" width="100%"/>
+</div>>
 
 <p align="center">
   <!-- Animated typing effect -->
