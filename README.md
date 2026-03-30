@@ -487,7 +487,7 @@ const currentFocus = {
 
 | &nbsp; | Degree | Institution | Result | Status |
 |:------:|--------|-------------|:------:|:------:|
-| 🎓 | **BS Software Engineering** | Punjab University | — | ![](https://img.shields.io/badge/-6th%20Semester%20%E2%80%94%20Enrolled-brightgreen?style=flat-square) |
+| 🎓 | **BS Software Engineering** | Riphah International University Sahiwal | 3.80 | ![](https://img.shields.io/badge/-6th%20Semester%20%E2%80%94%20Enrolled-brightgreen?style=flat-square) |
 | 📘 | **Intermediate — ICS** | Board of Intermediate | **A+** | ![](https://img.shields.io/badge/-Completed%20✓-6C63FF?style=flat-square) |
 
 </div>
